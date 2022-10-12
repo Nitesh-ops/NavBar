@@ -1,0 +1,26 @@
+{
+    "navigation": [
+        {
+            "title": "Home",
+            "link": "index.html"
+        },
+        {
+            "title": "About Us",
+            "link": "index.html"
+        },
+        {
+            "title": "Department",
+            "link": "product.html",
+            "subnav": [
+                {
+                    "title": "Profile",
+                    "link": "products/webapps.html"
+                },
+                {
+                    "title": "HOD",
+                    "link": "products/mobile-apps.html"
+                }
+            ]
+        }
+    ]
+}
